@@ -2,7 +2,7 @@
   "name": "bfsvis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://trpnayak.github.io/PathFinder",
+  "homepage": "https://trpnayak.github.io/PathFinder",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
