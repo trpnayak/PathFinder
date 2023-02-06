@@ -344,7 +344,7 @@ export default function Pathfinder() {
     <div className="main">
       <nav className="navbar navbar-exoand-lg navbar-dark bg-dark">
         <div className="Links">
-          <a className="navbar-brand" href="https://trpnayak.github.io/PathFinder/">
+          <a className="navbar-brand" href="/">
             <b className="path-text">PathFinding Visualizer</b>
           </a>
           {" "}{" "}
